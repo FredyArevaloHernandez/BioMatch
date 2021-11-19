@@ -64,6 +64,8 @@ public class MainActivity extends AppCompatActivity {
         btnReg.setText("AGREGAR");
 
 
+
+
     }
 
     private boolean onClickValidar (){
