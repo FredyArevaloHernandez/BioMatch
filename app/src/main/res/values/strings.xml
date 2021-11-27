@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">BioMatch</string>
     <string name="txtNombre"></string>
+    <string name="FechadeNacimiento">Fecha de Nacimiento</string>
+    <string name="Telefono">Teléfono</string>
+    <string name="Direccion">Dirección</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Nombre">Nombre</string>
+    <string name="RegistroDeClientes">REGISTRO DE CLIENTES</string>
+    <string name="Agregar">AGREGAR</string>
 </resources>
